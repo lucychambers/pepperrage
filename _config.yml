@@ -2,7 +2,7 @@
 
 title:            Rage Against the Stuffed Pepper 
 locale:           en_US
-url:              http://pepperrage.com
+url:              
 
 
 # Jekyll configuration
@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Lucy Chambers
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: http://pepperrage.s3.amazonaws.com/images/bio-photo.jpg
+  bio: "Free time food nerd."
   email: 
   disqus-shortname: 
   twitter: lucyfedia

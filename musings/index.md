@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post-index
 title: Musings
 image:
-  feature: http://pepperrage.s3.amazonaws.com/images/presentation2.png
+  feature: http://pepperrage.s3.amazonaws.com/images/peppercover.jpeg
 index_category: musings
 ---

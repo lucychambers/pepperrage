@@ -4,7 +4,6 @@ title:            Rage Against the Stuffed Pepper
 locale:           en_US
 url:
 
-
 # Jekyll configuration
 
 permalink:   /:year/:title/

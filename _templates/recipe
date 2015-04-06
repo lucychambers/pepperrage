@@ -1,0 +1,32 @@
+---
+layout: post
+title: 
+categories: [taste, process, presentation]
+---
+
+
+<div role="tabpanel">
+
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#veggie" aria-controls="veggie" role="tab" data-toggle="tab">(V): []</a></li>
+    <li role="presentation"><a href="#meat" aria-controls="meat" role="tab" data-toggle="tab">(M): []</a></li>
+    <li role="presentation"><a href="#story" aria-controls="story" role="tab" data-toggle="tab">The story behind this recipe</a></li>
+  </ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+
+<div role="tabpanel" class="tab-pane active" id="veggie" markdown="1">
+</div>
+
+<div role="tabpanel" class="tab-pane" id="meat" markdown="1">
+</div>
+
+<div role="tabpanel" class="tab-pane" id="story" markdown="1">
+</div>
+
+</div>
+
+</div>
+

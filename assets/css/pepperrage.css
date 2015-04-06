@@ -2,6 +2,10 @@ body {
 	font-size: 1.25rem
 }
 
+.lead {
+	margin-top: 10px;
+}
+
 .top-navigation li {
   font-size: 1.5rem;
 }

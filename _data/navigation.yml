@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Recipes
+  url: /recipes/
 
 - title: Musings
   url: /musings/
 
+- title: About
+  url: /about/
+  
 - title: Contact
   url: /contact/

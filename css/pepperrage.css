@@ -1,7 +1,0 @@
-p {
-	padding-bottom: 10px;
-}
-
-p+p {
-	text-indent: 0;
-}

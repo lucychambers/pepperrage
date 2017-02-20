@@ -22,7 +22,7 @@ The challenge is to find pairings of recipes which are easy and fun to cook and 
 
 I started this project as a matter of pride - to be a good host. I have a lot of vegetarian friends, I never want to their faces fall in disappointment at the boringness of the choice they were being offered.  
 
-As the experiment went on however, I noticed something: putting two meals on the table pretty much always meant that the meat eaters wanted to try the vegetarian option. Vegetarian food does often tend to look very appealing. Plus, there's a universal rule that if there is cheese on it, the meat eaters are going to drool over it. What if this effort could also affect the meat eaters, encouraging the family / friendship circle to try something new and in the process, fill up on something that did not contain meat? 
+As the experiment went on however, I noticed something: putting two meals on the table pretty much always meant that the meat eaters wanted to try the vegetarian option. What if this effort could also affect the meat eaters, encouraging the family / friendship circle to try something new and in the process, fill up on something that did not contain meat? 
 
 > Why not just cook vegetarian?   
  
@@ -32,16 +32,16 @@ This is not an effort to reform them or educate them, particularly as I belong t
 
 It is an effort to be deliberate about food choices and the dinner table is a great opportunity to actually have some of those conversations and encourage people to try other styles of food. If they happen to eat less meat as a result, that is a bonus. 
 
+### The Rage Against the Stuffed Pepper Principles 
+
+1. **The two meals complement each other in process, presentation or taste.** The two meals should also have a similar excitement factor.
+2. **A vegetarian meal is not a meat meal without meat.** When we frame it like this, the vegetarian option always seems wanting as they are missing something that the other dish has. As a result the vegetarian meal should have something that the meat meal does not have. 
+3. **We don't force the vegetarian meals to pretend to be meat.** Ingredients are fine if they have merit on their own (e.g. tofu, tempeh), but you won't see anything which has been processed to pretend to be meat. 
+4. **Meat dishes also strive to be meat-light.** This is based on my belief that while it still feels slightly awkward in some settings or cultures not to serve meat at all, I personally feel that a lot of my circle who feel strongly that a meal is not a meal without meat would actually not notice a little less meat on the plate. Psychologically, the meat box is checked. 
+
 > And so ? 
 
 This is an experiment. For the next year, I will collect, curate and invent recipes which give equal treatment to both vegetarian and meaty eaters. I will subject my friends to culinary experiments and I will write about the results. 
-
-### The Rage Against the Stuffed Pepper Principles 
-
-1. **The two meals complement each other in process, presentation or taste.** The two meals should have similar excitement factor.
-2. **A vegetarian meal is not a meat meal without meat.** When we frame it like this, the vegetarian option always seems wanting as they are missing something that the other dish has. As a result the vegetarian meal should have something that the meat meal does not have. 
-3. We don't force the vegetarian meals to pretend to be meat. Ingredients are fine if they have merit on their own (e.g. tofu, tempeh), but you won't see anything which has been processed to pretend to be meat. 
-4. Meat dishes should also strive to be meat-light. This is based on my belief that while it still feels slightly awkward in some settings or cultures not to serve meat at all, I personally feel that a lot of my circle who feel strongly that a meal is not a meal without meat would actually not notice a little less meat on the plate. The meat box is checked. 
 
 ## Licensing:
 

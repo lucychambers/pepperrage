@@ -1,59 +1,50 @@
 ---
 layout: page
-title: The phrase that launched the ship...
+title: This is not a vegetarian blog, and I am not a vegetarian....
 image:
   feature: http://pepperrage.s3.amazonaws.com/images/headers/chicken.png
 
 ---
 
->"Oh don't worry about me, it's my fault for being difficult..."
+### It *is* a blog about a dilemma. The dilemma of the **vegetarian afterthought**, of which I am myself guilty. 
 
-I hear this regularly from my vegetarian friends when I invite them over for dinner.  
+Meet this perfectly respectable stuffed pepper, isn't he delightful? Why does the name of this blog channel so much anger at him, isn't that unneccessary? 
 
-**Vegetarians** think they are a burden for asking their meat eater friends to *indulge* them by sacrificing one less chicken because they are asking their friends to put additional strain on their creativity by forcing them to cook two meals. 
+Of course, there is nothing wrong with him, per-se. I have had many a respectable and even *delicious* stuffed-pepper in my life. 
 
-**Meat eaters** silently stress out that they have to come up with another meal and make it somehow interesting.
+Mr Pepper is a problem mainly when a non-vegetarian (like myself), plops him down on the table in front of the vegetarians assembled while the meat eaters tuck into a painstakingly prepared feast, whose ingredients have been sourced from far and wide and have been beautifully presented to form the shape of a swan on each of the guests' dinner plates... 
 
-The usual outcome when a meat-eater cooks for a/multiple vegetarian/s is that we plan the main meal and then the vegetarian afterthought. This usually results in something totally out of keeping with what the meat eaters are having, such as the eponymous **stuffed pepper of doom**.* 
+Again, there is nothing wrong with stuffed peppers, I just needed a punching bag and I am sad to say that the stuffed pepper has become such a frequent visitor to my vegetarian friends that he is going to have to be it. Sorry pepper. 
 
-The meat eaters get a beef wellington. The veggies: a stuffed pepper. That's perfectly fair, right?
+The challenge is to find pairings of recipes which are easy and fun to cook and which show that equal amounts of thought have gone into them, regardless of whether the intended eater is vegetarian or a meat eater. 
 
-# I am the use case: 
+> Why is this important? 
 
-Let's make one thing clear. 
+I started this project as a matter of pride - to be a good host. I have a lot of vegetarian friends, I never want to their faces fall in disappointment at the boringness of the choice they were being offered.  
 
-**I am not a vegetarian. I don't think I ever will be. Those bacon sandwiches are just too good.** 
+As the experiment went on however, I noticed something: putting two meals on the table pretty much always meant that the meat eaters wanted to try the vegetarian option. Vegetarian food does often tend to look very appealing. Plus, there's a universal rule that if there is cheese on it, the meat eaters are going to drool over it. What if this effort could also affect the meat eaters, encouraging the family / friendship circle to try something new and in the process, fill up on something that did not contain meat? 
 
-But I do have a lot of friends who are. I am regularly in a situation where I have to cook for both meat eaters and vegetarians at the same time. I have regularly struggled to find plans and recipes to help me tackle this problem and have to make a lot up. 
+> Why not just cook vegetarian?   
+ 
+Good question. There are many wonderful vegetarian cookbooks out there already. Plus, perhaps it resonates with some readers that there are certain friends and family members who do not consider a meal without meat a meal at all. 
 
-I figured that there must be other people who share my pain. Maybe, I should share the solutions I have devised, and ask others to share theirs. 
+This is not an effort to reform them or educate them, particularly as I belong to the school of thought that a little meat is necessary in a diet. 
 
-## And so, Rage Against the Stuffed Pepper was born. 
+It is an effort to be deliberate about food choices and the dinner table is a great opportunity to actually have some of those conversations and encourage people to try other styles of food. If they happen to eat less meat as a result, that is a bonus. 
 
-I set out to write a cookbook and out came an all consuming life project. *Project: Extermination of the Vegetarian Afterthought.* 
+> And so ? 
 
 This is an experiment. For the next year, I will collect, curate and invent recipes which give equal treatment to both vegetarian and meaty eaters. I will subject my friends to culinary experiments and I will write about the results. 
 
 ### The Rage Against the Stuffed Pepper Principles 
 
-1. These recipes are specifically designed so that meat eaters and vegetarians can eat roughly equivalent meals. 
-2. Just defaulting to a vegetarian meal is cheating, there are plenty of good vegetarian recipe books out there if you want to take that approach. This approach will not satisfy the carnivores in my family! 
-3. All recipes are rated on their similarity based on: 
-
-* *Process* - how similar the process for cooking the two variants is. Recipes are favoured where they e.g. take roughly the same cooking time, use similar ingredients (apart from, obviously the meat), cost a similar amount, use the same number of pots and pans etc. 
-* *Presentation* - how similar do the two dishes look when they are presented? 
-* *Taste* - this is a crude measure, I don't want to force dishes to be identical if it spoils them. What I am looking for, however, is a similar balance of smoky, sweet, fruity, anisey (if that is even a word)...
-
-### Beyond that... 
-
-We will see. If this proves popular, maybe there will be a book after all.   
+1. **The two meals complement each other in process, presentation or taste.** The two meals should have similar excitement factor.
+2. **A vegetarian meal is not a meat meal without meat.** When we frame it like this, the vegetarian option always seems wanting as they are missing something that the other dish has. As a result the vegetarian meal should have something that the meat meal does not have. 
+3. We don't force the vegetarian meals to pretend to be meat. Ingredients are fine if they have merit on their own (e.g. tofu, tempeh), but you won't see anything which has been processed to pretend to be meat. 
+4. Meat dishes should also strive to be meat-light. This is based on my belief that while it still feels slightly awkward in some settings or cultures not to serve meat at all, I personally feel that a lot of my circle who feel strongly that a meal is not a meal without meat would actually not notice a little less meat on the plate. The meat box is checked. 
 
 ## Licensing:
 
 All original recipes are licensed under a [Creative Commons - Attribution - Share Alike Licence](https://creativecommons.org/licenses/by-sa/3.0/).
 
 External recipes maintain their original licence. 
-
-![Overthrow Prince Pepper](http://pepperrage.s3.amazonaws.com/images/headers/overthrow_prince_pepper.jpeg)
-
-* <small> I recognise that it is perfectly possible to make very tasty stuffed peppers. However, for artistic purposes, we shall maintain the pepper bashing until we get to a place where we have proved the point. Thereafter the meat and vegetable kingdoms shall be united and at the marriage feast, we shall serve both meat eaters and vegetarians the appropriately stuffed variant. </small>

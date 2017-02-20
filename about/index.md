@@ -2,7 +2,7 @@
 layout: page
 title: The phrase that launched the ship...
 image:
-  feature: http://pepperrage.s3.amazonaws.com/images/chicken.png
+  feature: http://pepperrage.s3.amazonaws.com/images/headers/chicken.png
 
 ---
 
@@ -54,6 +54,6 @@ All original recipes are licensed under a [Creative Commons - Attribution - Shar
 
 External recipes maintain their original licence. 
 
-![Overthrow Prince Pepper](http://pepperrage.s3.amazonaws.com/images/overthrow_prince_pepper.jpeg)
+![Overthrow Prince Pepper](http://pepperrage.s3.amazonaws.com/images/headers/overthrow_prince_pepper.jpeg)
 
 * <small> I recognise that it is perfectly possible to make very tasty stuffed peppers. However, for artistic purposes, we shall maintain the pepper bashing until we get to a place where we have proved the point. Thereafter the meat and vegetable kingdoms shall be united and at the marriage feast, we shall serve both meat eaters and vegetarians the appropriately stuffed variant. </small>

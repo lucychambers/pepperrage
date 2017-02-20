@@ -15,15 +15,44 @@ categories: [taste, process, presentation]
   </ul>
 
 <!-- Tab panes -->
+
 <div class="tab-content">
 
+
 <div role="tabpanel" class="tab-pane active" id="veggie" markdown="1">
+
+# [Title]
+
+<img src="xxx.jpg" class="recipe"/>
+
+## Ingredients
+
+## Process
+
 </div>
 
 <div role="tabpanel" class="tab-pane" id="meat" markdown="1">
+
+# [Title]
+
+<img src="xxx.jpg" class="recipe"/>
+
+## Ingredients
+
+## Process
+
 </div>
 
 <div role="tabpanel" class="tab-pane" id="story" markdown="1">
+
+# [Title]
+
+<img src="xxx.jpg" class="recipe"/>
+
+## Ingredients
+
+## Process
+
 </div>
 
 </div>

@@ -2,6 +2,10 @@ body {
 	font-size: 1.25rem
 }
 
+.recipe {
+	max-width:600px;
+}
+
 .lead {
 	margin-top: 10px;
 }

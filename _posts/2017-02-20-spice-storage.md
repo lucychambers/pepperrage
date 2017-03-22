@@ -10,7 +10,7 @@ We all know the problem, you have 50 jars of spices which all look the same from
 
 ### Here's a quick thought on a better way to store spices... 
 
-Buy some little transparent rectangular bags. They should be relatively robust, so get ones made of the thickest plastic you can find. 
+Buy some little transparent rectangular bags online. They should be relatively robust, so get ones made of the thickest plastic you can find. Ours are 100x150mm. 
 
 Make a little tray just wide enough to hold them. We made ours out of cardboard and tape, as you can see, but you can find a more elegant solution if you like! 
 
@@ -20,6 +20,5 @@ Take a permanent marker, write the name of the spice on the bag, decant them fro
 
 ![](http://pepperrage.s3.amazonaws.com/images/musings/storage1.jpg)
 ![](http://pepperrage.s3.amazonaws.com/images/musings/storage2.jpg)
-
 
 <small><em><strong>Credits</strong> This isn't my invention, but my co-chef isn't likely to boast about this at any point soon, so I'm doing it for him. </em></small>

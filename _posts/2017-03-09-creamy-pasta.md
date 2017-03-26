@@ -78,5 +78,7 @@ Two easy pasta dishes. Perfect for a weeknight dinner.
 4. Before draining the pasta, add a couple of spoons of the pasta water to the sauce. Now drain the pasta and mix into the sauce.
 5. Serve in large, deep bowls.  
 
+![Prawn Pasta](http://pepperrage.s3.amazonaws.com/images/recipes/creamypasta/prawn.jpg)
+
 </div>
 </div>
